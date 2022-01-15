@@ -1,0 +1,67 @@
+.genel{
+
+    margin: auto;
+    width: 25%;
+   
+
+
+
+background-color: rgba(0, 0, 0, 0.685);
+}
+label {
+
+color: white;
+}
+#first{
+
+
+   
+}
+#form1{
+
+
+    margin: 5px;
+    padding: 20px;
+    padding: auto;
+    text-align: left;
+    margin-top: 0px;
+    
+}
+#general{
+  
+
+
+}
+
+#ad1,#ad2,#ad3{
+
+padding-right: 50%;
+height: 30px;
+padding-top: 5px;
+padding-bottom: 5px;
+
+
+
+}
+
+#submit{
+
+border-radius :35px ;
+height: 35px;
+width: 130px;
+margin: 5px 60px 5px 70px ;
+background-color: red;
+
+
+}
+#title{
+
+
+    margin: 5px;
+    margin-bottom: 0px;
+}
+#desc{
+
+margin: 0px;
+
+}
